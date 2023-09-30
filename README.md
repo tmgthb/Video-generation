@@ -1,4 +1,8 @@
 # Video-generation
-Video generation models research.
+Video generation research papers updated daily. 
 
-- [VIDEODIRECTORGPT: CONSISTENT MULTI-SCENE VIDEO GENERATION VIA LLM-GUIDED PLANNING](https://arxiv.org/abs/2309.15091)
+
+## 26th of September 2023
+[VideoDirectorGPT: Consistent multi-scene video generation via LLM-guided planning](https://arxiv.org/abs/2309.15091)
+
+- Framework for consistent multi-scene video generation based on LLM knowledge for the video content planning and grounding the video generation.
